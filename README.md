@@ -98,7 +98,7 @@ El speedup real es ligeramente menor que el teórico debido a:
 - Operaciones de lectura/escritura en memoria intermedia
 - Optimizaciones internas de OpenCV
 
-## Análisis Detallado
+## Un poco de Análisis Detallado
 
 ### ¿Por qué funciona la aproximación SVD?
 
