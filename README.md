@@ -206,7 +206,7 @@ Para kernels no separables, SVD con rango 1 produce **aproximaciones** con error
 ├── main.cpp              # Código fuente principal
 ├── CMakeLists.txt        # Configuración de compilación
 ├── README.md             # Este archivo
-├── baboon.png             # Imagen de entrada
+├── baboon.png            # Imagen de entrada
 ├── out_ref2d.png         # Resultado convolución 2D
 ├── out_sep.png           # Resultado convolución separable
 └── out_absdiff.png       # Diferencia absoluta
